@@ -1,4 +1,4 @@
-#Создай собственный Шутер!
+
 from random import randint
 from pygame import *
 from tkinter.font import Font
@@ -114,16 +114,13 @@ for i in range(1, 6):
 
 
 
-#обработай событие «клик по кнопке "Закрыть окно"»
+
 
 game = True
 finish = False
 fps = 31
 ddd = True
 
-
-
-#docs.google.com/document/1eH5u5SAaiqXRIeEXrSW93p3z0BQcR72vjTweP4v0wNw/edit
 f1 = False
 f2 = False
 
