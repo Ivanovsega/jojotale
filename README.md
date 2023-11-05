@@ -1,2 +1,2 @@
-# its just work
-And you're always there to lend a hand In everything I do That's the wonder The wonder of you
+# I don't know
+Полуарканоид, сделаный из персонажей jojo и deltraune. влево-право -- ходить. вверх -- стрелять
